@@ -1,4 +1,4 @@
-# 1-27-2018-homework
+# 1-27-2018 In Class Project
 
 1. Fork this repo
 2. Create a new branch
